@@ -5,7 +5,7 @@ int main(){
    cout<<"Enter the number: ";
    cin>>n;
 
-   if(n==2){
+   if(n==2 || n==3){
        cout<<"Prime\n";
        return 0;
    }
